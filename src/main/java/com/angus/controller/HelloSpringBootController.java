@@ -47,7 +47,7 @@ public class HelloSpringBootController {
         userService.save();
         userService.saveUser();
 
-        return "hello SpringBoot! -- userId:";
+        return "hello SpringBoot! --:"+user.toString();
     }
 
 }

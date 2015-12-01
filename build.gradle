@@ -41,7 +41,7 @@ idea {
 
 
 jar {
-    baseName = 'MAN_DEV'
+    baseName = 'BASE-DEV'
     version = '1.0-SNAPSHOT'
 }
 

@@ -67,7 +67,7 @@ public class UserServiceImpl implements UserService {
 
         userMapper.save(user);
 
-        throw new RuntimeException("保存异常！");
+      //  throw new RuntimeException("保存异常！");
     }
 
 }
